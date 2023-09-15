@@ -1,4 +1,4 @@
-module github.com/gorilla/websocket
+module github.com/grey0904/test_my_engine
 
 go 1.21.0
 
